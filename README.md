@@ -1,33 +1,263 @@
-<h1 align="center">Hi 👋, I'm Jayesh Chaudhari</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<!-- ===================== HEADER ===================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshchaudhari56&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshchaudhari56" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayeshchaudhari56" alt="jayeshchaudhari56" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Jayesh%20Chaudhari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-- 🔭 I’m currently working on [Employee Performance Analytics Dashboard](https://github.com/Jayeshchaudhari56/employee-performance-analytics-dashboard)
+<h2>Hi 👋, I'm Jayesh Chaudhari</h2>
 
-- 🌱 I’m currently learning **Advanced SQL, Power BI, DAX & Python for Data Analytics**
+<h3>📊 Aspiring Data Analyst | Excel • SQL • Power BI • Python</h3>
 
-- 👯 I’m looking to collaborate on **Data Analytics & Business Intelligence Projects**
-
-- 🤝 I’m looking for help with **Advanced SQL, Power BI & Data Analytics**
-
-- 💬 Ask me about **Excel, SQL, Power BI, Python & Data Analytics**
-
-- 📫 How to reach me **jayeshchaudhari4554@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jayesh chaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayesh chaudhari" height="30" width="40" /></a>
+<p>
+Turning data into meaningful insights and business decisions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p>
+<a href="https://github.com/Jayeshchaudhari56">
+<img src="https://komarev.com/ghpvc/?username=Jayeshchaudhari56&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeshchaudhari56&show_icons=true&locale=en&layout=compact" alt="jayeshchaudhari56" /></p>
+<a href="https://github.com/Jayeshchaudhari56?tab=followers">
+<img src="https://img.shields.io/github/followers/Jayeshchaudhari56?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayeshchaudhari56&show_icons=true&locale=en" alt="jayeshchaudhari56" /></p>
+<a href="https://github.com/Jayeshchaudhari56?tab=repositories">
+<img src="https://img.shields.io/github/repos/Jayeshchaudhari56?label=Public%20Repositories&style=for-the-badge&logo=github" alt="Public Repositories"/>
+</a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshchaudhari56&" alt="jayeshchaudhari56" /></p>
+</div>
 
+---
+
+## 👨‍💻 About Me
+
+* 🎓 B.Tech graduate in **Electronics & Computer Engineering**
+* 📊 Aspiring **Data Analyst** focused on transforming raw data into actionable insights
+* 💼 Interested in **Data Analytics, Business Intelligence & Reporting**
+* 🧮 Strong interest in **Excel & SQL-based data analysis**
+* 📈 Building interactive dashboards using **Power BI & Excel**
+* 🐍 Using **Python** for data cleaning, analysis and visualization
+* 🚀 Currently improving my skills through practical projects
+* 💡 I enjoy finding patterns in data and converting them into meaningful business insights
+* 📍 Based in India
+
+---
+
+## 🎯 Current Focus
+
+```text
+📊 Data Analytics
+        ↓
+📗 Advanced Excel
+        ↓
+🗄️ Advanced SQL
+        ↓
+📈 Power BI + DAX
+        ↓
+🐍 Python for Data Analysis
+        ↓
+💼 Real-World Projects
+```
+
+### 🌱 Currently Learning
+
+**Advanced SQL • Power BI • DAX • Python for Data Analytics • Business Intelligence**
+
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Data Analytics
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite&perline=8" />
+
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-FFB900?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+</p>
+
+### 🐍 Python Libraries
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+</p>
+
+### 🌐 Other Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github&perline=8" />
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 📊 Employee Performance Analytics Dashboard
+
+**Excel • Pivot Tables • Power Query • VBA • Data Visualization**
+
+An interactive Excel dashboard designed to analyze employee productivity, working hours, breaks, attended calls and customer interaction metrics.
+
+**Key Features:**
+
+* 📊 Employee performance analysis
+* ⏱️ Working hours & break analysis
+* 📈 Interactive Pivot Charts
+* 🎛️ Dynamic dashboard controls
+* 🔍 Employee-level filtering
+* ⚙️ VBA automation
+
+🔗 **[View Project](https://github.com/Jayeshchaudhari56/employee-performance-analytics-dashboard)**
+
+---
+
+### 🚗 Pre-Owned Car Price Predictor
+
+**Python • Pandas • Scikit-Learn • Machine Learning • Streamlit**
+
+A machine learning project that predicts the estimated price of pre-owned cars using historical vehicle data.
+
+**Key Concepts:**
+
+* Data cleaning & preprocessing
+* Exploratory Data Analysis
+* Feature engineering
+* Regression models
+* Price prediction
+* Interactive web application
+
+🔗 **[Explore My Repositories](https://github.com/Jayeshchaudhari56?tab=repositories)**
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jayeshchaudhari56&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshchaudhari56&layout=compact&hide_border=true&langs_count=8" height="180"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Jayeshchaudhari56&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayeshchaudhari56&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jayeshchaudhari56&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📚 Data Analytics Skills
+
+| Category            | Skills                                                                                 |
+| ------------------- | -------------------------------------------------------------------------------------- |
+| 📗 Excel            | Advanced Excel, Pivot Tables, XLOOKUP, INDEX-MATCH, SUMIFS, COUNTIFS, Power Query, VBA |
+| 🗄️ SQL             | Joins, Subqueries, CTEs, Window Functions, GROUP BY, HAVING, Aggregations              |
+| 📊 Power BI         | Power Query, Data Modeling, DAX, Measures, Calculated Columns, Dashboards              |
+| 🐍 Python           | Pandas, NumPy, Matplotlib, Data Cleaning, EDA                                          |
+| 📈 Visualization    | Excel Dashboards, Power BI Dashboards, Charts & KPIs                                   |
+| 🤖 Machine Learning | Regression, Classification, Scikit-Learn                                               |
+| 🧹 Data Preparation | Data Cleaning, Transformation, Handling Missing Values, Feature Engineering            |
+
+---
+
+## 💼 What I Can Work With
+
+```text
+Raw Data
+   │
+   ├── Data Cleaning
+   │
+   ├── Data Transformation
+   │
+   ├── Exploratory Data Analysis
+   │
+   ├── SQL Analysis
+   │
+   ├── Data Modeling
+   │
+   ├── Dashboard Development
+   │
+   └── Business Insights
+          ↓
+     Better Decisions
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jayesh-chaudhari56/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jayeshchaudhari4554@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Jayeshchaudhari56">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 💬 Ask Me About
+
+**Excel • SQL • Power BI • DAX • Python • Data Analytics • Data Visualization**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**"Turning data into insights, one dataset at a time."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
+
+</div>
